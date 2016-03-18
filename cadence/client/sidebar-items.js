@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["StatsdClient","Client for Statsd that implements various traits to record metrics."]],"trait":[["Counted","Trait for incrementing and decrementing counters."],["Gauged","Trait for recording gauge values."],["Metered","Trait for recording meter values."],["Timed","Trait for recording timings in milliseconds."]]});
